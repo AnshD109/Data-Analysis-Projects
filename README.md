@@ -1,6 +1,6 @@
-# Data Analysis Projects
+# 📊 Data Analysis Projects
 
-A curated portfolio of data analysis projects using Jupyter notebooks to explore real-world datasets.
+Welcome to my data analysis portfolio! This repository contains a diverse collection of Jupyter notebooks demonstrating data cleaning, exploratory data analysis, machine learning, and impactful visualizations across various domains.
 
 ---
 
@@ -18,6 +18,15 @@ A curated portfolio of data analysis projects using Jupyter notebooks to explore
 - **Zomato EDA (Exploratory Data Analysis)**  
   Deep dive into Zomato restaurant data: insights on ratings, cuisines, locations, and pricing patterns.
 
+- **(Data Analysis on Hotel Booking)**  
+  Comprehensive analysis of hotel booking data uncovering booking trends, customer preferences, and key factors affecting cancellations and occupancy.
+
+- **(Finance Data Analysis Project)**  
+  In-depth exploration of financial datasets to uncover revenue trends, cost breakdowns, and business insights. Utilizes statistical analysis and interactive visualizations for clear, actionable findings.
+
+- **(Netflix Data Analysis)**  
+  Extensive investigation of the Netflix catalog to analyze genre distribution, content ratings, release patterns, and trends in original content production.
+
 ---
 
 ##  How to Use
@@ -25,3 +34,5 @@ A curated portfolio of data analysis projects using Jupyter notebooks to explore
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/AnshD109/Data-Analysis-Projects.git
+
+---
