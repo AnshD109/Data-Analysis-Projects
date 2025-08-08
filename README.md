@@ -18,13 +18,13 @@ Welcome to my data analysis portfolio! This repository contains a diverse collec
 - **Zomato EDA (Exploratory Data Analysis)**  
   Deep dive into Zomato restaurant data: insights on ratings, cuisines, locations, and pricing patterns.
 
-- **(Data Analysis on Hotel Booking)**  
+- **Data Analysis on Hotel Booking**  
   Comprehensive analysis of hotel booking data uncovering booking trends, customer preferences, and key factors affecting cancellations and occupancy.
 
-- **(Finance Data Analysis Project)**  
+- **Finance Data Analysis Project**  
   In-depth exploration of financial datasets to uncover revenue trends, cost breakdowns, and business insights. Utilizes statistical analysis and interactive visualizations for clear, actionable findings.
 
-- **(Netflix Data Analysis)**  
+- **Netflix Data Analysis**  
   Extensive investigation of the Netflix catalog to analyze genre distribution, content ratings, release patterns, and trends in original content production.
 
 ---
