@@ -4,7 +4,7 @@ Welcome to my data analysis portfolio! This repository contains a diverse collec
 
 ---
 
-##  Project Highlights
+##  Project Highlights 
 
 - **Crop Recommendation Analysis**  
   A detailed notebook for building a crop recommendation system, including data preprocessing and model evaluation.
